@@ -7510,9 +7510,7 @@ button.bg-dark:focus {
   margin-right: 0 !important;
 }
 
-.mb-0 { 
-  color: blue
-},
+.mb-0,
 .my-0 {
   margin-bottom: 0 !important;
 }
@@ -9801,7 +9799,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #bd5d38 !important;
+  color: blue !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
