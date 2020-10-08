@@ -7510,7 +7510,9 @@ button.bg-dark:focus {
   margin-right: 0 !important;
 }
 
-.mb-0,
+.mb-0 { 
+  color: blue
+},
 .my-0 {
   margin-bottom: 0 !important;
 }
